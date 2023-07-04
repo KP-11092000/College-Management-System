@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "83383179213",
+    "firebase_url": "https://imca-860a6-default-rtdb.firebaseio.com",
+    "project_id": "imca-860a6",
+    "storage_bucket": "imca-860a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83383179213:android:eea26a447fe0b22c415684",
+        "android_client_info": {
+          "package_name": "com.example.college"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83383179213-lo36a3kfrj9ot31hajevik5tb4h7nqqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELTStLc4OiTQsVUb3ykeOhkTzOYpK6ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83383179213-lo36a3kfrj9ot31hajevik5tb4h7nqqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83383179213:android:d2f79f92713d3715415684",
+        "android_client_info": {
+          "package_name": "com.example.imca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83383179213-lo36a3kfrj9ot31hajevik5tb4h7nqqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELTStLc4OiTQsVUb3ykeOhkTzOYpK6ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83383179213-lo36a3kfrj9ot31hajevik5tb4h7nqqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
